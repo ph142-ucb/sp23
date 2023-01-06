@@ -1,8 +1,18 @@
 ---
 title: Week 7
 days:
-  - date: 2022-08-15
+  - date: 2023-02-27
     events:
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 12:00 PM PST)":
-        null
+      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+  - date: 2023-03-01
+    events:
+      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+        "Ch. 1 & 2"
+      "**Lab 2**{: .label .label-lab} on Datahub":
+      "**Homework 2**{: .label .label-hw} on Datahub":
+  - date: 2023-03-03
+    events:
+      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
+        "Ch. 3"
+      "**Quiz 2**{: .label .label-quiz} on Gradescope":
 ---

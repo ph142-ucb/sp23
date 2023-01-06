@@ -1,8 +1,7 @@
 ---
-name: Nolan Gunter (they/them/theirs)
+name: Hillary Nguyen (they/them/theirs)
 role: Teaching Assistant
-email: 
-website: 
+language: 
 photo: https://ph142-ucb.github.io/sp22/img/nolan.png
 ---
 

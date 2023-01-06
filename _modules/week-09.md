@@ -1,16 +1,16 @@
 ---
-title: Week 3
+title: Week 9
 days:
-  - date: 2023-01-30
+  - date: 2023-03-13
     events:
       "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-  - date: 2023-02-01
+  - date: 2023-03-15
     events:
       "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
         "Ch. 1 & 2"
       "**Lab 2**{: .label .label-lab} on Datahub":
       "**Homework 2**{: .label .label-hw} on Datahub":
-  - date: 2023-02-03
+  - date: 2023-03-17
     events:
       "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
         "Ch. 3"
