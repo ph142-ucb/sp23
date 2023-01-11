@@ -3,16 +3,15 @@ title: Week 5
 days:
   - date: 2023-02-13
     events:
-      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+      "**Lecture 12**{: .label .label-lec} General Rules of Probability":
+        "Ch. 10"
   - date: 2023-02-15
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Exam**{: .label .label-exam} Midterm 1":
+      "**Lab 4**{: .label .label-lab} Probability Calculations (Due Feb. 21)":
+      "**Homework 4**{: .label .label-hw} on Datahub":
   - date: 2023-02-17
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 13**{: .label .label-lec} Probability con.": 
+      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Feb. 18, 12:00 PM PST)":
 ---

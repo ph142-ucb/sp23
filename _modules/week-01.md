@@ -6,13 +6,12 @@ days:
       "**No Class: Martin Luther King Jr. Day**":
   - date: 2023-01-18
     events:
-      "**Lecture 1**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 1**{: .label .label-lab} on Datahub":
+      "**Lecture 1**{: .label .label-lec} Introduction to Datahub and PPDAC":
+        "Ch. 1"
+      "**Lab 1**{: .label .label-lab} Introduction to R and RStudio on Datahub (Due Jan. 24)":
       "**Homework 1**{: .label .label-hw} on Datahub":
   - date: 2023-01-20
     events:
-      "**Lecture 2**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 1**{: .label .label-quiz} on Gradescope":
+      "**Lecture 2**{: .label .label-lec} Working with Data in R and R studio": 
+      "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jan. 21, 12:00 PM PST)":
 ---

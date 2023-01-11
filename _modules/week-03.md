@@ -3,16 +3,17 @@ title: Week 3
 days:
   - date: 2023-01-30
     events:
-      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+      "**Lecture 6**{: .label .label-lec} Introduction to Regression":
+        "Ch. 4"
   - date: 2023-02-01
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Lecture 7**{: .label .label-lec} Two-way Tables":
+        "Ch. 5 & 6"
+      "**Lab 3**{: .label .label-lab} Relationship Between Global Cesarean Delivery Rates and GDP (Due Feb. 7)":
+      "**Homework 3**{: .label .label-hw} on Datahub":
   - date: 2023-02-03
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 8**{: .label .label-lec} Samples and Observational Studies": 
+        "Ch. 7"
+      "**Quiz 3**{: .label .label-quiz} on Gradescope (Due Feb. 4, 12:00 PM PST)":
 ---

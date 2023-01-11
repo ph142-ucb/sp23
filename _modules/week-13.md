@@ -3,16 +3,15 @@ title: Week 13
 days:
   - date: 2023-04-10
     events:
-      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+      "**Lecture 30**{: .label .label-lec} Non-parametrics":
   - date: 2023-04-12
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Lecture 31**{: .label .label-lec} Inference for Regression":
+      "**Lab 9**{: .label .label-lab} T Tests and ANOVA (Due Apr. 18)":
+      "**Homework 9**{: .label .label-hw} on Datahub":
   - date: 2023-04-14
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 32**{: .label .label-lec} Inference for Proportions": 
+        "Ch. 19"
+      "**Quiz 9**{: .label .label-quiz} on Gradescope (Due Apr. 15, 12:00 PM PST)":
 ---

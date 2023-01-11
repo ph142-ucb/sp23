@@ -3,16 +3,17 @@ title: Week 8
 days:
   - date: 2023-03-06
     events:
-      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+      "**Lecture 19**{: .label .label-lec} Confidence Intervals":
+        "Ch. 13"
   - date: 2023-03-08
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Lecture 20**{: .label .label-lec} Hypothesis Testing":
+        "Ch. 14"
+      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 14)":
+      "**Homework 7**{: .label .label-hw} on Datahub":
   - date: 2023-03-10
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 21**{: .label .label-lec} Power and Sample Size": 
+        "Ch. 15"
+      "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Mar. 11, 12:00 PM PST)":
 ---

@@ -6,13 +6,12 @@ days:
       "**No Class: Presidents' Day**":
   - date: 2023-02-22
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Lecture 14**{: .label .label-lec} Bayes Theorem; The Normal Distribution":
+        "Ch. 10 & 11"
+      "**Lab 5**{: .label .label-lab} Sensitivity, Specificity, and the Normal Distribution (Due Feb. 29)":
+      "**Homework 5**{: .label .label-hw} on Datahub":
   - date: 2023-02-24
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 15**{: .label .label-lec} The Binomial Distribution": 
+        "Ch. 12"
 ---

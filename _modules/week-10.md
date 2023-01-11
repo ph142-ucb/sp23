@@ -3,16 +3,13 @@ title: Week 10
 days:
   - date: 2023-03-20
     events:
-      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+      "**Lecture 24**{: .label .label-lec} Inference about a Population Mean":
+        "Ch. 17"
   - date: 2023-03-22
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Lecture 25**{: .label .label-lec} Lec con.":
   - date: 2023-03-24
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 26**{: .label .label-lec} Lec con.": 
+      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Mar. 25)":
 ---

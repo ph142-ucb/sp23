@@ -3,16 +3,16 @@ title: Week 7
 days:
   - date: 2023-02-27
     events:
-      "**Lecture 4**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
+      "**Lecture 16**{: .label .label-lec} The Poisson Distribution":
+        "Ch. 12"
   - date: 2023-03-01
     events:
-      "**Lecture 5**{: .label .label-lec} Intro to PH142, the Cloud, and PPDAC; Beginning to work with data":
-        "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} on Datahub":
-      "**Homework 2**{: .label .label-hw} on Datahub":
+      "**Lecture 17**{: .label .label-lec} Distribution con.":
+      "**Lab 6**{: .label .label-lab} Sampling Distribution, CLT, and Poisson (Due Mar. 7)":
+      "**Homework 6**{: .label .label-hw} on Datahub":
   - date: 2023-03-03
     events:
-      "**Lecture 6**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
-        "Ch. 3"
-      "**Quiz 2**{: .label .label-quiz} on Gradescope":
+      "**Lecture 18**{: .label .label-lec} Sampling and the Central Limit Theorem": 
+        "Ch. 13"
+      "**Quiz 5**{: .label .label-quiz} on Gradescope (Due Mar. 4, 12:00 PM PST)":
 ---
