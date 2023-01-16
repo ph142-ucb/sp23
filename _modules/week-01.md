@@ -8,8 +8,8 @@ days:
     events:
       "**Lecture 1**{: .label .label-lec} Introduction to Datahub and PPDAC":
         "Ch. 1"
-      "**Lab 1**{: .label .label-lab} Introduction to R and RStudio on Datahub (Due Jan. 24)":
-      "**Homework 1**{: .label .label-hw} on Datahub":
+      "**Lab 1**{: .label .label-lab} [Introduction to R and RStudio on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Jan. 24)":
+      "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-01-20
     events:
       "**Lecture 2**{: .label .label-lec} Working with Data in R and R studio": 
