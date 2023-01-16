@@ -9,6 +9,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
+<!--
 [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/su22/src/dp/part1-instructions_su22.pdf)  
 
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf)  
@@ -16,12 +17,12 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su22/src/dp/part3-instructions_su22.pdf)  
 
 <hr>
-
+-->
 **Due dates:** 
 
-- **Part I is due on July 18th at 10pm PST**
-- **Part II is due on August 1st at 10pm PST**
-- **Part III is due on August 15th at 12pm noon PST**
+- **Part I is due on February 28th at 10pm PST**
+- **Part II is due on March 24th at 10pm PST**
+- **Part III is due on May 8th at 12pm noon PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -62,6 +63,8 @@ The objectives of this assignment are to:
 
 Because we are asking you to provide some visualizations and use the same dataset for parts II and III of the project, make sure that you choose a dataset with enough  observations (rows) to have something that you can interpret.  Confirm with your supporting GSI that you have an appropriate dataset.  You will also need a dataset large enough so that you can run a statistical test in part III.  A good general guide here is to choose a dataset with at least 100 observations, and at least 30 in each group if you are comparing across groups.  For example, if you are answering a question about mean days in the ICU between groups of patients exposed to some intervention procedure vs. not, you would want to have data on at least 100 patients, at least 30 of which had undergone the intervention and at least 30 of whom had not.  Your outcome of interest should be something that can be defined as a continuous, discrete or binary variable.  
 
-## Data Skills Demonstration Project Part III
+## Data Skills Demonstration Project Part I
 
+<!--
 <iframe src="https://ph142-ucb.github.io/su22/src/dp/part3-instructions_su22.pdf" width="100%" height="800"></iframe>
+-->

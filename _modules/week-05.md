@@ -3,11 +3,11 @@ title: Week 5
 days:
   - date: 2023-02-13
     events:
-      "**Lecture 12**{: .label .label-lec} General Rules of Probability":
-        "Ch. 10"
+      "**Exam**{: .label .label-exam} Midterm 1":
   - date: 2023-02-15
     events:
-      "**Exam**{: .label .label-exam} Midterm 1":
+      "**Lecture 12**{: .label .label-lec} General Rules of Probability":
+        "Ch. 10"
       "**Lab 4**{: .label .label-lab} Probability Calculations (Due Feb. 21)":
       "**Homework 4**{: .label .label-hw} on Datahub":
   - date: 2023-02-17

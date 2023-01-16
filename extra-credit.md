@@ -29,9 +29,10 @@ One of the skills we hope that you develop during this course is the ability to 
 a critical eye. We particularly hope that you will be able to apply this skill to assessing information that is
 relevant to decisions you or people you care about.
 
+<!--
 <iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-compelling-study.pdf" width="100%" height="800"></iframe>
 
-<hr>
+<hr> -->
 
 <!-- ## Extra Credit - Statistical Humor
 
@@ -49,9 +50,10 @@ assignment. To recover up to 3 marks on the midterm, reinforce your understandin
 creativity, you can make a short explanation of a concept from the course that includes sample question and
 solution guide corresponding to topics covered during that lecture.
 
+<!--
 <iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
 
-<hr>
+<hr> -->
 
 ## Extra Credit - Statistics is Everywhere
 
@@ -65,4 +67,5 @@ statistical information, and to share your critical thinking with others.
 For this extra credit assignment, we are asking you to provide your own “Statistics is Everywhere” example
 and demonstrate this kind of critical thinking
 
-<iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe>
+<!--
+<iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe> -->
