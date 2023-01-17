@@ -38,7 +38,7 @@ description: Resources for students
 | [Creating Folders, Working Directories, Uploading Data into Datahub](https://www.youtube.com/watch?v=iwRA5lI3XIM) ([Supplemental Doc](https://docs.google.com/document/d/1a00RtBiiaXoBKSk_2oStR6o7lmRe52PN6X6Mmr9vWrs/edit))    |
 | [Data Manipulation](https://www.youtube.com/watch?v=96A0TuJ43hk)                                                                                                                                                                |
 | [Categorizing Variables](https://youtu.be/wyJu6lX-2Vc)                                                                                                                                                                         |
-
+<!---
 <hr>
 
 ### Exam Resources
@@ -57,7 +57,7 @@ description: Resources for students
 | Final          | [Fa19 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa19_SOLUTIONS.pdf) |
 |                | [Fa20 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa20_SOLUTIONS.pdf) |
 |                | [Sp21 Final Takehome](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome_SOLUTIONS.pdf) |
-|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed_SOLUTIONS.pdf) |
+|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed_SOLUTIONS.pdf) | -->
 
 
 <!---
