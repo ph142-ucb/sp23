@@ -6,9 +6,9 @@ days:
       "**Lecture 36**{: .label .label-lec} Summary of Course Concepts":
   - date: 2023-04-26
     events:
-      "**Lecture 37**{: .label .label-lec} Bootstrapping and Permutations":
+      "**Lecture 37**{: .label .label-lec} Structured Review":
       "**Lab**{: .label .label-lab} Final Review":
   - date: 2023-04-28
     events:
-      "**Lecture 38**{: .label .label-lec} Lec con.": 
+      "**Lecture 38**{: .label .label-lec} Review con.": 
 ---
