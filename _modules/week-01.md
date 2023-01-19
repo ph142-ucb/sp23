@@ -12,6 +12,6 @@ days:
       "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-01-20
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with Data in R and R studio](https://ph142-ucb.github.io/sp23/src/L02_working-2ith-data.pdf)": 
+      "**Lecture 2**{: .label .label-lec} [Working with Data in R and R studio](https://ph142-ucb.github.io/sp23/src/L02_working-with-data.pdf)": 
       "**Quiz 1**{: .label .label-quiz} on Gradescope (Due Jan. 21, 12:00 PM PST)":
 ---
