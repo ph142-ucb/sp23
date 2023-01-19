@@ -8,6 +8,8 @@ days:
   - date: 2023-03-22
     events:
       "**Lecture 25**{: .label .label-lec} Lec con.":
+      "**Lab 8**{: .label .label-lab} T-Tests (Due Apr. 4)":
+      "**Homework 8**{: .label .label-hw} on Datahub":
   - date: 2023-03-24
     events:
       "**Lecture 26**{: .label .label-lec} Lec con.": 

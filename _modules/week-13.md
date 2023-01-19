@@ -7,8 +7,8 @@ days:
   - date: 2023-04-12
     events:
       "**Lecture 31**{: .label .label-lec} Inference for Regression":
-      "**Lab 9**{: .label .label-lab} T Tests and ANOVA (Due Apr. 18)":
-      "**Homework 9**{: .label .label-hw} on Datahub":
+      "**Lab 10**{: .label .label-lab} T Tests and ANOVA (Due Apr. 18)":
+      "**Homework 10**{: .label .label-hw} on Datahub":
   - date: 2023-04-14
     events:
       "**Lecture 32**{: .label .label-lec} Inference for Proportions": 

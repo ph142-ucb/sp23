@@ -8,8 +8,8 @@ days:
     events:
       "**Lecture 28**{: .label .label-lec} Paired T Testing":
         "Ch. 17"
-      "**Lab 8**{: .label .label-lab} Paired and Two-Sample T-Tests (Due Apr. 11)":
-      "**Homework 8**{: .label .label-hw} on Datahub":
+      "**Lab 9**{: .label .label-lab} Paired and Two-Sample T-Tests (Due Apr. 11)":
+      "**Homework 9**{: .label .label-hw} on Datahub":
   - date: 2023-04-07
     events:
       "**Lecture 29**{: .label .label-lec} ANOVA": 
