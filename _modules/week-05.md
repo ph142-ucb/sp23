@@ -12,6 +12,5 @@ days:
       "**Homework 4**{: .label .label-hw} on Datahub":
   - date: 2023-02-17
     events:
-      "**Lecture 13**{: .label .label-lec} Probability con.": 
-      "**Quiz 4**{: .label .label-quiz} on Gradescope (Due Feb. 18, 12:00 PM PST)":
+      "**Lecture 13**{: .label .label-lec} Probability con.":
 ---

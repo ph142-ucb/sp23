@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 16**{: .label .label-lec} The Poisson Distribution":
         "Ch. 12"
-    - date: 2023-02-28
+  - date: 2023-02-28
     events:
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
   - date: 2023-03-01
