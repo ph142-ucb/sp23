@@ -9,7 +9,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/su22/src/dp/part1-instructions_sp23.pdf)  
+[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp23/src/dp/part1-instructions_sp23.pdf)  
 
 <!--
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf)  
@@ -65,4 +65,4 @@ Because we are asking you to provide some visualizations and use the same datase
 
 ## Data Skills Demonstration Project Part I
 
-<iframe src="https://ph142-ucb.github.io/su22/src/dp/part1-instructions_sp23.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/sp23/src/dp/part1-instructions_sp23.pdf" width="100%" height="800"></iframe>
