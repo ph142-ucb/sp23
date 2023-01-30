@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2023-01-30
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/sp23/src/l06-intro-to-regression.pdf)":
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/sp23/src/l06-intro-to-regression.pdf) ([Recording](https://youtu.be/c1A6-tkhN2I))":
         "Ch. 4"
   - date: 2023-02-01
     events:
