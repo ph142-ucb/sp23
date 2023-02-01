@@ -7,7 +7,7 @@ days:
         "Ch. 4"
   - date: 2023-02-01
     events:
-      "**Lecture 7**{: .label .label-lec} Two-way Tables":
+      "**Lecture 7**{: .label .label-lec} [Two-way Tables](https://ph142-ucb.github.io/sp23/src/l07-two-categorical-vars_edits.pdf)":
         "Ch. 5 & 6"
       "**Lab 3**{: .label .label-lab} [Relationship Between Global Cesarean Delivery Rates and GDP](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Feb. 7)":
       "**Homework 3**{: .label .label-hw} on Datahub":
