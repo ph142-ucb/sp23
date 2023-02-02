@@ -13,7 +13,7 @@ days:
       "**Homework 3**{: .label .label-hw} on Datahub":
   - date: 2023-02-03
     events:
-      "**Lecture 8**{: .label .label-lec} Samples and Observational Studies": 
+      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/sp23/src/l08-samples.pdf)": 
         "Ch. 7"
       "**Quiz 3**{: .label .label-quiz} on Gradescope (Due Feb. 4, 12:00 PM PST)":
 ---
