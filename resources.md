@@ -38,14 +38,15 @@ description: Resources for students
 | [Creating Folders, Working Directories, Uploading Data into Datahub](https://www.youtube.com/watch?v=iwRA5lI3XIM) ([Supplemental Doc](https://docs.google.com/document/d/1a00RtBiiaXoBKSk_2oStR6o7lmRe52PN6X6Mmr9vWrs/edit))    |
 | [Data Manipulation](https://www.youtube.com/watch?v=96A0TuJ43hk)                                                                                                                                                                |
 | [Categorizing Variables](https://youtu.be/wyJu6lX-2Vc)                                                                                                                                                                         |
+
 <hr>
 
 ### Exam Resources
 
 | Practice Exams | Year                          | Solutions                      |
 |----------------|-------------------------------|--------------------------------|
-| Midterm 1      | [Sp22 Midterm 1](https://ph142-ucb.github.io/sp23/src/resource/sp22_midterm_1.pdf) | [Sp22 Midterm 1 Solutions](https://ph142-ucb.github.io/sp22/src/resource/sp22_midterm_1_SOLUTIONS.pdf) |
-|                | [Sp21 Midterm 1](https://ph142-ucb.github.io/sp23/src/resource/sp21_midterm_1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/sp23/src/resources/sp21_midterm_1_SOLUTIONS.pdf) |
+| Midterm 1      | [Sp22 Midterm 1](https://ph142-ucb.github.io/sp23/src/resource/sp22_midterm_1.pdf) | [Sp22 Midterm 1 Solutions](https://ph142-ucb.github.io/sp23/src/resource/sp22_midterm_1_SOLUTIONS.pdf) |
+|                | [Sp21 Midterm 1](https://ph142-ucb.github.io/sp23/src/resource/sp21_midterm_1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/sp23/src/resource/sp21_midterm_1_SOLUTIONS.pdf) |
 
 <!---
 |----------------|-------------------------------|--------------------------------|
