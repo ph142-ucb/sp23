@@ -7,7 +7,7 @@ days:
         "Ch. 8"
   - date: 2023-02-08
     events:
-      "**Lecture 10**{: .label .label-lec} Part 1 Summary":
+      "**Lecture 10**{: .label .label-lec} [Part 1 Summary](https://ph142-ucb.github.io/sp23/src/midterm-review.pdf)":
       "**Lab**{: .label .label-lab} [Midterm 1 Review Session](https://docs.google.com/presentation/d/1JJ4JerBi0aMlBG8wq1mM2s8lTHvTzX7Bf00OuhA72wY/edit?usp=sharing)":
   - date: 2023-02-10
     events:
