@@ -8,8 +8,8 @@ days:
     events:
       "**Lecture 12**{: .label .label-lec} General Rules of Probability":
         "Ch. 10"
-      "**Lab 4**{: .label .label-lab} Probability Calculations (Due Feb. 21)":
-      "**Homework 4**{: .label .label-hw} on Datahub":
+      "**Lab 4**{: .label .label-lab} [Probability Calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Feb. 21)":
+      "**Homework 4**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-02-17
     events:
       "**Lecture 13**{: .label .label-lec} Probability con.":
