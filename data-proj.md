@@ -20,7 +20,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 -->
 **Due dates:** 
 
-- **Part I is due on February 28th at 10pm PST**
+- **Part I is due on March 3rd at 10pm PST**
 - **Part II is due on March 24th at 10pm PST**
 - **Part III is due on May 8th at 12pm noon PST**
 
