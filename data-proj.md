@@ -11,13 +11,12 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp23/src/dp/part1-instructions_sp23.pdf)  
 
-<!--
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/su22/src/dp/part2-instructions_su22.pdf)  
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp23/src/dp/part2-instructions_sp23.pdf)  
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/su22/src/dp/part3-instructions_su22.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp23/src/dp/part3-instructions_sp23.pdf)  
 
 <hr>
--->
+
 **Due dates:** 
 
 - **Part I is due on March 3rd at 10pm PST**
