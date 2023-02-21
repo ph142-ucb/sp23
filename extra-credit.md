@@ -10,6 +10,20 @@ description: >-
 
 Would you like to earn some points back in the class? We have a few extra credit opportunities that you can choose from which will be updated throughout the semester!
 
+<hr> 
+
+## Extra Credit - Question Creation
+
+If you would like to recover points lost on the first or second midterm you have the option of an extra credit
+assignment. To recover up to 3 marks on the midterm, reinforce your understanding, and to show your
+creativity, you can make a short explanation of a concept from the course that includes sample question and
+solution guide corresponding to topics covered during that lecture. -->
+
+
+<iframe src="https://ph142-ucb.github.io/sp23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
+
+<hr> 
+
 <!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). 
 
 <details open markdown="block">
