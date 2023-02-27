@@ -3,11 +3,11 @@ title: Week 7
 days:
   - date: 2023-02-27
     events:
-      "**Lecture 16**{: .label .label-lec} The Poisson Distribution":
+      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution part II](https://ph142-ucb.github.io/sp23/src/l16-binomial.pdf)":
         "Ch. 12"
   - date: 2023-03-01
     events:
-      "**Lecture 17**{: .label .label-lec} Distribution con.":
+      "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/sp23/src/l17-poisson.pdf)":
       "**Lab 6**{: .label .label-lab} Sampling Distribution, CLT, and Poisson (Due Mar. 7)":
       "**Homework 6**{: .label .label-hw} on Datahub":
   - date: 2023-03-03
