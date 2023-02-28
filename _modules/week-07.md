@@ -3,7 +3,7 @@ title: Week 7
 days:
   - date: 2023-02-27
     events:
-      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution part II](https://ph142-ucb.github.io/sp23/src/l16-binomial.pdf)":
+      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution part II](https://ph142-ucb.github.io/sp23/src/l16-binomial.pdf) ([Recording](https://youtu.be/IJUp_bVxlKc))":
         "Ch. 12"
   - date: 2023-03-01
     events:
