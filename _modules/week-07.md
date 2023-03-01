@@ -8,8 +8,8 @@ days:
   - date: 2023-03-01
     events:
       "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/sp23/src/l17-poisson.pdf)":
-      "**Lab 6**{: .label .label-lab} Sampling Distribution, CLT, and Poisson (Due Mar. 7)":
-      "**Homework 6**{: .label .label-hw} on Datahub":
+      "**Lab 6**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Mar. 7)":
+      "**Homework 6**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-03-03
     events:
       "**Lecture 18**{: .label .label-lec} Sampling and the Central Limit Theorem": 
