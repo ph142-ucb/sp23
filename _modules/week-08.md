@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2023-03-06
     events:
-      "**Lecture 19**{: .label .label-lec} [Confidence Intervals](https://ph142-ucb.github.io/sp23/src/l19-confidence.pdf)":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals](https://ph142-ucb.github.io/sp23/src/l19-confidence.pdf) (Recording: [Part 1](https://youtu.be/E6FT2mihyVU) & [Part 2](https://youtu.be/RUCSEF_cfkM))":
         "Ch. 13"
   - date: 2023-03-08
     events:
