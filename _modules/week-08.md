@@ -7,7 +7,7 @@ days:
         "Ch. 13"
   - date: 2023-03-08
     events:
-      "**Lecture 20**{: .label .label-lec} Hypothesis Testing":
+      "**Lecture 20**{: .label .label-lec} [Hypothesis Testing](https://ph142-ucb.github.io/sp23/src/l20-hypothesis.pdf)":
         "Ch. 14"
       "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 14)":
       "**Homework 7**{: .label .label-hw} on Datahub":
