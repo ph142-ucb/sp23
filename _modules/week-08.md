@@ -13,7 +13,7 @@ days:
       "**Homework 7**{: .label .label-hw} on Datahub":
   - date: 2023-03-10
     events:
-      "**Lecture 21**{: .label .label-lec} Power and Sample Size": 
+      "**Lecture 21**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/sp23/src/l21-power.pdf)": 
         "Ch. 15"
       "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Mar. 11, 12:00 PM PST)":
 ---
