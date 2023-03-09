@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} [Hypothesis Testing](https://ph142-ucb.github.io/sp23/src/l20-hypothesis.pdf) ([Recording](https://youtu.be/VyxSq28RlMo))":
         "Ch. 14"
-      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Mar. 14)":
+      "**Lab 7**{: .label .label-lab} [Confidence Intervals and P-Hacking]((https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)) (Due Mar. 14)":
       "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-03-10
     events:
