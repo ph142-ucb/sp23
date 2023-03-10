@@ -13,7 +13,7 @@ days:
       "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-03-10
     events:
-      "**Lecture 21**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/sp23/src/l21-power.pdf)": 
+      "**Lecture 21**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/sp23/src/l21-power.pdf) ([Recording](https://youtu.be/CnAQrHnFiLQ))": 
         "Ch. 15"
-      "**Quiz 6**{: .label .label-quiz} on Gradescope (Due Mar. 11, 12:00 PM PST)":
+      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/482455/assignments/2736239) (Due Mar. 11, 12:00 PM PST)":
 ---
