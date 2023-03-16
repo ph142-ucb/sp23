@@ -14,5 +14,4 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} ANOVA": 
       "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Mar. 25, 12:00 PM PST)":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---
