@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2023-03-20
     events:
-      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp23/src/flavors-of-t.pdf)":
+      "**Lecture 24**{: .label .label-lec} [Test for two means](https://ph142-ucb.github.io/sp23/src/flavors-of-t.pdf) ([Recording](https://youtu.be/kvl-JQNk9kM))":
         "Ch. 17"
   - date: 2023-03-22
     events:

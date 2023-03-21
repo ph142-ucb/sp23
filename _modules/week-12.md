@@ -4,7 +4,6 @@ days:
   - date: 2023-04-03
     events:
       "**Lecture 27**{: .label .label-lec} ANOVA recap- post-hoc testing":
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
   - date: 2023-04-05
     events:
       "**Lecture 28**{: .label .label-lec} Non Parametrics":
@@ -16,4 +15,5 @@ days:
       "**Lecture 29**{: .label .label-lec} Inference for Regression": 
         "Ch. 18"
       "**Quiz 8**{: .label .label-quiz} on Gradescope (Due Apr. 8, 12:00 PM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---
