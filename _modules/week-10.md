@@ -12,6 +12,6 @@ days:
       "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-03-24
     events:
-      "**Lecture 26**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp23/src/anova.pdf)": 
-      "**Quiz 7**{: .label .label-quiz} on Gradescope (Due Mar. 25, 12:00 PM PST)":
+      "**Lecture 26**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp23/src/anova.pdf) ([Recording](https://youtu.be/IpMyUxrfgH8))": 
+      "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/482455/assignments/2767285) (Due Mar. 25, 12:00 PM PST)":
 ---
