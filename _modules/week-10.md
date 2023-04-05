@@ -9,7 +9,7 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} [Paired T](https://ph142-ucb.github.io/sp23/src/paired-t.pdf) ([Recording](https://youtu.be/UNORR02v5pg))":
       "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Apr. 4)":
-      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
+      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/sp23/src/hw-sol/hw08-sol.pdf))":
   - date: 2023-03-24
     events:
       "**Lecture 26**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp23/src/anova.pdf) ([Recording](https://youtu.be/IpMyUxrfgH8))": 
