@@ -6,7 +6,7 @@ days:
       "**Lecture 27**{: .label .label-lec} [ANOVA recap- post-hoc testing](https://ph142-ucb.github.io/sp23/src/post_anova.pdf) ([Recording](https://youtu.be/gu1TO6t2FpI))":
   - date: 2023-04-05
     events:
-      "**Lecture 28**{: .label .label-lec} [Non Parametrics](https://ph142-ucb.github.io/sp23/src/non_para.pdf)":
+      "**Lecture 28**{: .label .label-lec} [Non Parametrics](https://ph142-ucb.github.io/sp23/src/non-para.pdf)":
         "Ch. 17"
       "**Lab 9**{: .label .label-lab} Paired and Two-Sample T-Tests (Due Apr. 11)":
       "**Homework 9**{: .label .label-hw} on Datahub":
