@@ -3,7 +3,7 @@ title: Week 13
 days:
   - date: 2023-04-10
     events:
-      "**Lecture 30**{: .label .label-lec} [Inference for Proportions}(https://ph142-ucb.github.io/sp23/src/proportions.pdf)":
+      "**Lecture 30**{: .label .label-lec} [Inference for Proportions](https://ph142-ucb.github.io/sp23/src/proportions.pdf)":
   - date: 2023-04-12
     events:
       "**Lecture 31**{: .label .label-lec} Comparing Two Proportions":
