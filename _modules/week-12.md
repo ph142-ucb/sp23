@@ -12,7 +12,7 @@ days:
       "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-04-07
     events:
-      "**Lecture 29**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/sp23/src/regression-inference.pdf)": 
+      "**Lecture 29**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/sp23/src/regression-inference.pdf) ([Recording](https://youtu.be/zR5Tol_Jotw))": 
         "Ch. 18"
       "**Quiz 8**{: .label .label-quiz} on Gradescope (Due Apr. 8, 12:00 PM PST)":
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":

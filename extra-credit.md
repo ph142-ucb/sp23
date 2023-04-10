@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? We have a few extra credit opportunities that you can choose from which will be updated throughout the semester!
+Would you like to earn some points back in the class? We have a few extra credit opportunities that you can choose from which will be updated throughout the semester! Question creation extra credit can be completed once after a midterm. You can also select one end of semester extra credit opportunity to recover points in your overall grade: Compelling Study or Statistics is Everywhere. Submissions are accepted on a rolling basis until April 24th at 10:00 PM PST.
 
 <hr> 
 
@@ -35,7 +35,7 @@ solution guide corresponding to topics covered during that lecture. -->
 {:toc}
 </details>
 
-<hr>
+<hr> -->
 
 ## Extra Credit - Compelling Study
 
@@ -43,10 +43,9 @@ One of the skills we hope that you develop during this course is the ability to 
 a critical eye. We particularly hope that you will be able to apply this skill to assessing information that is
 relevant to decisions you or people you care about. -->
 
-<!--
-<iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-compelling-study.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/sp23/src/ec/ec-compelling-study_revsp23.pdf" width="100%" height="800"></iframe>
 
-<hr> -->
+<hr> 
 
 <!-- ## Extra Credit - Statistical Humor
 
@@ -69,7 +68,7 @@ solution guide corresponding to topics covered during that lecture. -->
 
 <hr> -->
 
-<!-- ## Extra Credit - Statistics is Everywhere
+## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
 highlighting statistical content you may see in news, social media, or other places. The goal is to demonstrate
@@ -81,5 +80,4 @@ statistical information, and to share your critical thinking with others.
 For this extra credit assignment, we are asking you to provide your own “Statistics is Everywhere” example
 and demonstrate this kind of critical thinking -->
 
-<!--
-<iframe src="https://ph142-ucb.github.io/su22/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe> --> 
+<iframe src="https://ph142-ucb.github.io/sp23/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe> 
