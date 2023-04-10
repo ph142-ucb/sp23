@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? We have a few extra credit opportunities that you can choose from which will be updated throughout the semester! Question creation extra credit can be completed once after a midterm. You can also select one end of semester extra credit opportunity to recover points in your overall grade: Compelling Study or Statistics is Everywhere. Submissions are accepted on a rolling basis until April 24th at 10:00 PM PST.
+Would you like to earn some points back in the class? We have a few extra credit opportunities that you can choose from which will be updated throughout the semester! Question creation extra credit can be completed once after a midterm. You can also select one end of semester extra credit opportunity to recover up to 2 extra points in your overall grade: Compelling Study or Statistics is Everywhere. Submissions are accepted on a rolling basis until April 24th at 10:00 PM PST.
 
 <hr> 
 
@@ -17,7 +17,7 @@ Would you like to earn some points back in the class? We have a few extra credit
 If you would like to recover points lost on the first or second midterm you have the option of an extra credit
 assignment. To recover up to 3 marks on the midterm, reinforce your understanding, and to show your
 creativity, you can make a short explanation of a concept from the course that includes sample question and
-solution guide corresponding to topics covered during that lecture. -->
+solution guide corresponding to topics covered during that lecture. 
 
 
 <iframe src="https://ph142-ucb.github.io/sp23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe>
@@ -41,7 +41,7 @@ solution guide corresponding to topics covered during that lecture. -->
 
 One of the skills we hope that you develop during this course is the ability to assess scientific information with
 a critical eye. We particularly hope that you will be able to apply this skill to assessing information that is
-relevant to decisions you or people you care about. -->
+relevant to decisions you or people you care about. 
 
 <iframe src="https://ph142-ucb.github.io/sp23/src/ec/ec-compelling-study_revsp23.pdf" width="100%" height="800"></iframe>
 
@@ -78,6 +78,6 @@ media. We hope that through this course we can equip you to be more discerning c
 statistical information, and to share your critical thinking with others.
 
 For this extra credit assignment, we are asking you to provide your own “Statistics is Everywhere” example
-and demonstrate this kind of critical thinking -->
+and demonstrate this kind of critical thinking 
 
 <iframe src="https://ph142-ucb.github.io/sp23/src/ec/ec-statistics-is-everywhere.pdf" width="100%" height="800"></iframe> 
