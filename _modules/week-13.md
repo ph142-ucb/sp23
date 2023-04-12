@@ -6,8 +6,8 @@ days:
       "**Lecture 30**{: .label .label-lec} [Inference for Proportions](https://ph142-ucb.github.io/sp23/src/proportions.pdf) ([Recording](https://youtu.be/hAP5IbJxZTI))":
   - date: 2023-04-12
     events:
-      "**Lecture 31**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/sp23/src/2prop.pdf)":
-      "**Lab 10**{: .label .label-lab} T Tests and ANOVA (Due Apr. 18)":
+      "**Lecture 31**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/sp23/src/2prop.pdf) ([Recording](https://youtu.be/oazLO_Intcc))":
+      "**Lab 10**{: .label .label-lab} [Proportions and Inference for Regression](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Apr. 18)":
       "**Homework 10**{: .label .label-hw} on Datahub":
   - date: 2023-04-14
     events:
