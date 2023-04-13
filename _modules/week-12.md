@@ -9,7 +9,7 @@ days:
       "**Lecture 28**{: .label .label-lec} [Non Parametrics](https://ph142-ucb.github.io/sp23/src/non-para.pdf) ([Recording](https://youtu.be/SYD5cHU-OWo))":
         "Ch. 17"
       "**Lab 9**{: .label .label-lab} [Paired and Two-Sample T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) (Due Apr. 11)":
-      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
+      "**Homework 9**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main) ([Solutions](https://ph142-ucb.github.io/sp23/src/hw-sol/hw09-sol.pdf))":
   - date: 2023-04-07
     events:
       "**Lecture 29**{: .label .label-lec} [Inference for Regression](https://ph142-ucb.github.io/sp23/src/regression-inference.pdf) ([Recording](https://youtu.be/zR5Tol_Jotw))": 
