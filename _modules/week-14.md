@@ -3,7 +3,7 @@ title: Week 14
 days:
   - date: 2023-04-17
     events:
-      "**Lecture 33**{: .label .label-lec} Goodness of Fit":
+      "**Lecture 33**{: .label .label-lec} [Goodness of Fit](https://ph142-ucb.github.io/sp23/src/goodnessoffit.pdf)":
         "Ch. 20"
   - date: 2023-04-19
     events:
