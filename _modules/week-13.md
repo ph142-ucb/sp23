@@ -11,7 +11,7 @@ days:
       "**Homework 10**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-04-14
     events:
-      "**Lecture 32**{: .label .label-lec} [Bootstrapping Confidence Intervals and some terms from Epidemiology](https://ph142-ucb.github.io/sp23/src/odds_risks_bootstraps.pdf)": 
+      "**Lecture 32**{: .label .label-lec} [Bootstrapping Confidence Intervals and some terms from Epidemiology](https://ph142-ucb.github.io/sp23/src/odds_risks_bootstraps.pdf) ([Recording](https://youtu.be/cv4R9Lh5OMw))": 
         "Ch. 19"
       "**Quiz 9**{: .label .label-quiz} on Gradescope (Due Apr. 15, 12:00 PM PST)":
 ---
