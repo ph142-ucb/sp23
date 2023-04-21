@@ -55,14 +55,13 @@ description: Resources for students
 |                | [Sp21 Midterm 2 Gradescope](https://ph142-ucb.github.io/sp23/src/resource/mt2_sp21_gradescope.pdf) | [Sp21 Midterm 2 Gradescope Solutions](https://ph142-ucb.github.io/sp23/src/resource/mt2_sp21_gradescope_SOLUTIONS.pdf) |
 |                | [Sp21 Midterm 2 Takehome](https://ph142-ucb.github.io/sp23/src/resource/mt2_sp21_takehome.pdf) | [Sp21 Midterm 2 Takehome Solutions](https://ph142-ucb.github.io/sp23/src/resource/mt2_sp21_takehome_SOLUTIONS.pdf) |
 
-<!---
+
 |----------------|-------------------------------|
 --------------------------------|
-<!---
-| Final          | [Fa19 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa19_SOLUTIONS.pdf) |
-|                | [Fa20 Final](https://ph142-ucb.github.io/sp22/src/resource/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_fa20_SOLUTIONS.pdf) |
-|                | [Sp21 Final Takehome](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_takehome_SOLUTIONS.pdf) |
-|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp22/src/resource/final_sp21_timed_SOLUTIONS.pdf) | -->
+| Final          | [Fa19 Final](https://ph142-ucb.github.io/sp23/src/resource/final_fa19.pdf) | [Fa19 Final Solutions](https://ph142-ucb.github.io/sp23/src/resource/final_fa19_SOLUTIONS.pdf) |
+|                | [Fa20 Final](https://ph142-ucb.github.io/sp23/src/resource/final_fa20.pdf) | [Fa20 Final Solutions](https://ph142-ucb.github.io/sp23/src/resource/final_fa20_SOLUTIONS.pdf) |
+|                | [Sp21 Final Takehome](https://ph142-ucb.github.io/sp23/src/resource/final_sp21_takehome.pdf) | [Sp21 Final Takehome Solutions](https://ph142-ucb.github.io/sp23/src/resource/final_sp21_takehome_SOLUTIONS.pdf) |
+|                | [Sp21 Final Gradescope](https://ph142-ucb.github.io/sp23/src/resource/final_sp21_timed.pdf) | [Sp21 Final Gradescope Solutions](https://ph142-ucb.github.io/sp23/src/resource/final_sp21_timed_SOLUTIONS.pdf) |
 
 
 <!---
