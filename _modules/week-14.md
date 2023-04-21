@@ -13,6 +13,6 @@ days:
       "**Homework 11**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp23&urlpath=rstudio%2F&branch=main)":
   - date: 2023-04-21
     events:
-      "**Lecture 35**{: .label .label-lec} Permutations Testing": 
+      "**Lecture 35**{: .label .label-lec} [Permutations](https://ph142-ucb.github.io/sp23/src/permute.pdf)": 
       "**Quiz 10**{: .label .label-quiz} on Gradescope (Due Apr. 22, 12:00 PM PST)":
 ---
