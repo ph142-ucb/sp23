@@ -7,7 +7,7 @@ days:
   - date: 2023-04-26
     events:
       "**Lecture 37**{: .label .label-lec} Structured Review":
-      "**Lab**{: .label .label-lab} Final Review":
+      "**Lab**{: .label .label-lab} [Final Review](https://docs.google.com/presentation/d/1lkGV_6Fezy8XC6p-5GNbB620leHu5JEhteAPS8gQyS4/edit?usp=sharing)":
   - date: 2023-04-28
     events:
       "**Lecture 38**{: .label .label-lec} Review con.": 
