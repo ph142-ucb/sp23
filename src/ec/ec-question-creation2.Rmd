@@ -1,0 +1,36 @@
+---
+title: "Extra Credit: Explanation, Question and Solution Guide"
+output: pdf_document
+---
+
+If you would like to recover points lost on the first or second midterm you have the option of an extra credit assignment. To recover up to 3 marks on the midterm, reinforce your understanding, and to show your creativity, you can make a short explanation of a concept from the course that includes sample questions and a solution guide corresponding to topics covered during that lecture.
+
+## Due Date
+
+Your sample questions will be due on Gradescope one week after exam grades are released. For example, if the exam grades are released on September 27, then you can submit your assignment on Gradescope by October 4th at 10:00 PM.
+
+- For Midterm I, this assignment is due on October 4, 2022 at 10:00 PM.
+
+## Guidelines
+
+Choose a question that you got wrong on the exam. Identify the core concept addressed in the question.  
+- Write a short 1 to 2 paragraph explanation of the concept.  
+- Write a set of questions; either one long question or several short questions assessing this concept. The questions should be worth 5-7 marks total either in the format of a longer question with multiple parts or several shorter questions. The format of the questions can be short answer, fill in the blanks, true or false, and/or multiple choice.  
+- Be inspired and creative! Try and apply what you learned about that concept to a topic in the news or a public health example that we did not cover in class.  
+Create a solution guide for your question, including a rubric indicating where the marks will be earned or deducted.  
+- If you want, you can provide a small dataset printed on the sheet you submit.  
+
+## Point recovery
+
+- You may be awarded up to 3 points on the exam for completing this assignment.
+- Full marks will be awarded for correct explanations and creative questions with thorough, well thought out solution guides that have public health or biology applications.
+- Half marks will be awarded for explanations or questions with incorrect information, less thorough, or that are less applicable to public health or biology.
+- No marks will be awarded if the guidelines are not followed.
+
+## Submission
+
+1. Once you are ready to submit, knit your Rmd as a pdf and make sure it is neat, with no code running off the page.
+2. On the lower-right window in the ‘Files’ tab, check the extra credit pdf file, then click on ‘More,’ then ‘Export.’ This will download the pdf to your computer. 
+3. Log into Gradescope and select the correct assignment. Upload the pdf manually. 
+4. If you have any questions, feel free to post on Piazza.
+
